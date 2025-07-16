@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OD_Techs_ScoreCards/static/css/main.b40a0e5e.css",
+    "main.js": "/OD_Techs_ScoreCards/static/js/main.e2dae223.js",
+    "static/js/453.90b50dc4.chunk.js": "/OD_Techs_ScoreCards/static/js/453.90b50dc4.chunk.js",
+    "static/media/logo.svg": "/OD_Techs_ScoreCards/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/OD_Techs_ScoreCards/index.html",
+    "main.b40a0e5e.css.map": "/OD_Techs_ScoreCards/static/css/main.b40a0e5e.css.map",
+    "main.e2dae223.js.map": "/OD_Techs_ScoreCards/static/js/main.e2dae223.js.map",
+    "453.90b50dc4.chunk.js.map": "/OD_Techs_ScoreCards/static/js/453.90b50dc4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b40a0e5e.css",
+    "static/js/main.e2dae223.js"
+  ]
+}
