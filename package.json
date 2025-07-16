@@ -2,7 +2,6 @@
   "name": "omaha-drain-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://raadchfat.github.io/OD_Techs_ScoreCards",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
