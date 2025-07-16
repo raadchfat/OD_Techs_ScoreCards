@@ -79,6 +79,14 @@ npm start
   - Job status distribution pie chart
 - **Summary Stats**: Quick overview of total jobs, won jobs, and membership metrics
 
+### Sample Data
+
+For testing purposes, sample CSV files are provided in the `sample-data/` directory:
+- `opportunities-sample.csv` - Sample opportunities data
+- `line-items-sample.csv` - Sample line items data
+
+You can convert these to Excel format (.xlsx) for testing the dashboard functionality.
+
 ### Data Requirements
 
 #### Opportunities Report Columns:
@@ -167,6 +175,10 @@ npm install --save-dev gh-pages
 ```bash
 npm run deploy
 ```
+
+## Live Demo
+
+The dashboard is deployed and available at: [https://raadchfat.github.io/OD_Techs_ScoreCards](https://raadchfat.github.io/OD_Techs_ScoreCards)
 
 ## Troubleshooting
 

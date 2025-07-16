@@ -1,0 +1,11 @@
+Date,Job,Customer,Opportunity Owner,Status,Revenue,Membership Opportunity,Membership Sold
+2024-01-15,JOB001,John Smith,Mike Johnson,Won,1250.00,Yes,Yes
+2024-01-16,JOB002,Jane Doe,Sarah Wilson,Won,850.00,No,No
+2024-01-17,JOB003,Bob Brown,Mike Johnson,Lost,0.00,Yes,No
+2024-01-18,JOB004,Alice Green,Sarah Wilson,Won,2100.00,Yes,Yes
+2024-01-19,JOB005,Charlie Black,Mike Johnson,Won,950.00,No,No
+2024-01-22,JOB006,Diana White,Sarah Wilson,Won,1800.00,Yes,Yes
+2024-01-23,JOB007,Edward Gray,Mike Johnson,Won,1350.00,Yes,No
+2024-01-24,JOB008,Fiona Red,Sarah Wilson,Lost,0.00,No,No
+2024-01-25,JOB009,George Blue,Mike Johnson,Won,1650.00,Yes,Yes
+2024-01-26,JOB010,Helen Yellow,Sarah Wilson,Won,1100.00,No,No 
