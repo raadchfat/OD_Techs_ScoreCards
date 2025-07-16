@@ -147,6 +147,32 @@ npm run build
 
 This creates a `build` folder with optimized production files.
 
+### Deploy to Vercel
+
+1. **Install Vercel CLI** (optional):
+```bash
+npm install -g vercel
+```
+
+2. **Deploy via Vercel Dashboard** (Recommended):
+   - Go to [vercel.com](https://vercel.com)
+   - Sign in with GitHub
+   - Click "New Project"
+   - Import: `raadchfat/OD_Techs_ScoreCards`
+   - Set Root Directory to: `omaha-drain-dashboard`
+   - Click "Deploy"
+
+3. **Deploy via CLI**:
+```bash
+vercel --prod
+```
+
+4. **Deploy via GitHub Integration**:
+   - Connect your GitHub account to Vercel
+   - Import the `OD_Techs_ScoreCards` repository
+   - Vercel will automatically detect it's a React app
+   - Deploy with default settings
+
 ### Deploy to GitHub Pages
 
 1. Add homepage to package.json:
